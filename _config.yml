@@ -2,6 +2,8 @@ name: Mohammed Ennabah
 description: bookmark this to keep an eye on the updates
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+future: true
+
 footer-links:
   email: ennabahm9@gmail.com
   facebook:

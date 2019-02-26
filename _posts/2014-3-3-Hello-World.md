@@ -1,5 +1,5 @@
 ---
-title: Trees
+layout: default
 ---
 
 This is a demo of all styled elements in Jekyll Now.
